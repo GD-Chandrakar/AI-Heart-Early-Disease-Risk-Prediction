@@ -22,7 +22,7 @@ ROC curves and confusion matrix for performance evaluation
 
 # 🏗️ System Architecture
 
-```text
+
 Frontend (React + Vite)
         ↓
 FastAPI Backend
@@ -117,4 +117,6 @@ into a unified healthcare prediction system.
 
 👨‍💻 Authors
 Gagandeep Chandrakar
-Team Members
+Akansh Srivastava
+Palkin 
+Arnav Talwar
