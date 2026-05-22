@@ -22,7 +22,7 @@ ROC curves and confusion matrix for performance evaluation
 
 # 🏗️ System Architecture
 
-
+```text
 Frontend (React + Vite)
         ↓
 FastAPI Backend
@@ -32,6 +32,7 @@ Machine Learning Model (.pkl)
 Prediction Output
         ↓
 Visualization Dashboard
+
 📊 Dataset
 
 Dataset Used:
@@ -47,6 +48,7 @@ Chest Pain Type
 ECG Results
 Maximum Heart Rate
 Other clinical features
+
 ⚙️ Tech Stack
 Frontend
 React.js
@@ -117,6 +119,4 @@ into a unified healthcare prediction system.
 
 👨‍💻 Authors
 Gagandeep Chandrakar
-Akansh Srivastava
-Palkin 
-Arnav Talwar
+Team Members
